@@ -89,18 +89,19 @@
 
         <!-- Why Choose Area Start Here -->
         <section class="vision-mission">
-             <!-- Vision -->
+            <!-- Vision -->
             <div class="card vision">
                 <div class="icon">
                     <img src="img/icon/vision.png" alt="Vision Icon">
                 </div>
                 <h2>Our Vision</h2>
                 <ul class="mission-list">
-                    <li>To impart high-quality professional and scientific education to students from all social backgrounds, 
-                fostering knowledge, skills, and values for holistic development.</li>
-                    <li>To establish ourselves as a premier 
-                educational institution with global standing recognized for academic excellence, innovation, and 
-                commitment to societal progress.</li>
+                    <li>To impart high-quality professional and scientific education to students from all social
+                        backgrounds,
+                        fostering knowledge, skills, and values for holistic development.</li>
+                    <li>To establish ourselves as a premier
+                        educational institution with global standing recognized for academic excellence, innovation, and
+                        commitment to societal progress.</li>
                 </ul>
             </div>
 
@@ -114,8 +115,10 @@
                     <li>Promoting curiosity, innovation, and evidence-based thinking among students.</li>
                     <li>Ensuring Equality, Opportunity, and Dignity for all.</li>
                     <li>Providing an inclusive environment that respects diversity and empowers all learners.</li>
-                    <li>Developing leadership and employability skills and preparing students to lead with confidence and excel in the global job market.</li>
-                    <li>Encouraging continuous learning and idea exchange with a culture of knowledge sharing, research, and holistic environment.</li>
+                    <li>Developing leadership and employability skills and preparing students to lead with confidence
+                        and excel in the global job market.</li>
+                    <li>Encouraging continuous learning and idea exchange with a culture of knowledge sharing, research,
+                        and holistic environment.</li>
                     <li>Building strong partnerships with industries to align education with real-world needs.</li>
                 </ul>
             </div>
